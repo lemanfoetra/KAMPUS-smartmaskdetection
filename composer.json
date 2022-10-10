@@ -14,8 +14,7 @@
         "laravel/framework": "^8.65",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-        "nwidart/laravel-modules": "^8.2",
-        "xendit/xendit-php": "^2.17"
+        "nwidart/laravel-modules": "^8.2"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
